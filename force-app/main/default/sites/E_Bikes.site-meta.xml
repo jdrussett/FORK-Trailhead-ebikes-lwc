@@ -21,12 +21,11 @@
     <indexPage>CommunitiesLanding</indexPage>
     <masterLabel>E-Bikes</masterLabel>
     <redirectToCustomDomain>false</redirectToCustomDomain>
-    <referrerPolicyOriginWhenCrossOrigin
-    >true</referrerPolicyOriginWhenCrossOrigin>
+    <referrerPolicyOriginWhenCrossOrigin>true</referrerPolicyOriginWhenCrossOrigin>
     <selfRegPage>CommunitiesSelfReg</selfRegPage>
-    <siteAdmin>jdonald.bwc@curious-badger-jlnkkt.com</siteAdmin>
-    <siteGuestRecordDefaultOwner>jdonald.bwc@curious-badger-jlnkkt.com</siteGuestRecordDefaultOwner>
+    <siteAdmin>jdonald.bwc@wise-impala-va5p1o.com</siteAdmin>
+    <siteGuestRecordDefaultOwner>jdonald.bwc@wise-impala-va5p1o.com</siteGuestRecordDefaultOwner>
     <siteType>ChatterNetwork</siteType>
-    <subdomain>curious-badger-jlnkkt-dev-ed.trailblaze.my.site.com</subdomain>
+    <subdomain>wise-impala-va5p1o-dev-ed</subdomain>
     <urlPathPrefix>ebikes</urlPathPrefix>
 </CustomSite>
